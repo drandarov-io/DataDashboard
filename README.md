@@ -40,7 +40,7 @@ Substitute the values as necessary:
 
 **Be extra careful NOT to commit those changes, as they might leak potentially sensitive information!!!**
 
-As some extra safety consider running `git udpate-index --assume-unchanged src/assets/config/app.config.json` before changing this file.
+As some extra safety consider running `git update-index --assume-unchanged src/assets/config/app.config.json` before changing this file.
 
 
 
